@@ -1,1 +1,0 @@
-sutdown -s -t 30 -c "Hacket"
